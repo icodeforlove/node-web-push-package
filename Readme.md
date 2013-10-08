@@ -1,8 +1,8 @@
 ## web-push-package
 
-generates a [web push package](https://developer.apple.com/library/prerelease/mac/documentation/NetworkingInternet/Conceptual/NotificationProgrammingGuideForWebsites/PushNotifications/PushNotifications.html#//apple_ref/doc/uid/TP40013225-CH3-SW7) for the Apple Push Notification service
+**NOTE: currently requires you to have OpenSSL installed**
 
-*currently required you to have OpenSSL installed*
+generates a [web push package](https://developer.apple.com/library/prerelease/mac/documentation/NetworkingInternet/Conceptual/NotificationProgrammingGuideForWebsites/PushNotifications/PushNotifications.html#//apple_ref/doc/uid/TP40013225-CH3-SW7) for the Apple Push Notification service
 
 ## installation
 
