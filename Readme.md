@@ -2,6 +2,8 @@
 
 generates a [web push package](https://developer.apple.com/library/prerelease/mac/documentation/NetworkingInternet/Conceptual/NotificationProgrammingGuideForWebsites/PushNotifications/PushNotifications.html#//apple_ref/doc/uid/TP40013225-CH3-SW7) for the Apple Push Notification service
 
+** currently required you to have OpenSSL installed **
+
 ## installation
 
     $ npm install web-push-package
